@@ -19,17 +19,6 @@ To run the code, you'll need the following Python environment setup:
 - **Numpy**: 2.5
 - Other dependencies can be found in `requirements.txt`.
 
-#### Installation
-
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/UDPF-DDI.git
-    cd UDPF-DDI
-    ```
-2.  Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ---
 
