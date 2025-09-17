@@ -28,9 +28,9 @@ The repository is structured by task. Navigate to the specific task folder to ru
 
 1.  **Navigate to the task directory**:
     ```bash
-    cd <task_folder_name>
+    cd <task_name>
     ```
-    (e.g., `cd binary_classification` or `cd multi_classification`)
+    (e.g., `cd binary` or `cd multi_rel`)
 
 2.  **Run the training script**:
     ```bash
