@@ -8,6 +8,13 @@ Combination therapy is common in clinical practice, but drug-drug interactions (
 
 ---
 
+### Framework Diagram
+
+这是一个展示 UDPF-DDI 框架结构的示意图：
+
+https://github.com/xiaofeng-codes/UDPF-DDI/framwork.png
+
+---
 ### Getting Started
 
 #### Prerequisites
