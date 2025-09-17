@@ -8,7 +8,7 @@ Combination therapy is common in clinical practice, but drug-drug interactions (
 
 ---
 
-### Framework Diagram
+### UDPF-DDI Framework
 
 ![UDPF-DDI Framework](framework.png)
 
