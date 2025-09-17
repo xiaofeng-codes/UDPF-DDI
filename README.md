@@ -19,11 +19,13 @@ Combination therapy is common in clinical practice, but drug-drug interactions (
 
 To run the code, you'll need the following Python environment setup:
 
-- **Python**: 3.8+
-- **PyTorch**: 1.12
-- **Numpy**: 2.5
-- Other dependencies can be found in `requirements.txt`.
-
+- **Python**: 3.8
+- **PyTorch**: 1.12.0+cu113
+- **Numpy**: 1.23.0
+- **rdkit**: 2024.3.2
+- **torch_geometric**: 2.6.1
+- **torch_scatter**: 2.1.0+pt112cu113
+- **pandas**: 1.3.5
 
 ---
 
