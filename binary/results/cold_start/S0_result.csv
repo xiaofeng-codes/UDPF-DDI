@@ -1,0 +1,2 @@
+Epoch,Test Loss,Test Accuracy,Test AUC ROC,Test PR,Test F1,Test Recall,Test Int AP,Test AP
+100,0.0443,0.9845,0.9987,0.9889,0.9864,0.9839,0.999,0.999
