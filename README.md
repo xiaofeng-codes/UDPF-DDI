@@ -1,4 +1,4 @@
-# A Unified Differential Denoising Learning Framework with a Pre-trained Model and Fuzzy Graph Networks for Drug-Drug Interaction Prediction (UDPF-DDI)
+# <div align="center">A Unified Differential Denoising Learning Framework with a Pre-trained Model and Fuzzy Graph Networks for Drug-Drug Interaction Prediction (UDPF-DDI)</dib>
 
 
 ### Abstract
